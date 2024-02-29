@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain\Domain.csproj", "{683E946B-AD1F-4FA9-B7F3-2D7EF783F974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{683E946B-AD1F-4FA9-B7F3-2D7EF783F974}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure\Infrastructure.csproj", "{CEAF9D7F-690C-49EC-AE8F-BC00CC17FE0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{CEAF9D7F-690C-49EC-AE8F-BC00CC17FE0B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebUI", "WebUI\WebUI\WebUI.csproj", "{F64CB7EE-1DDB-47CC-84DB-0D985A6E650A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebUI", "WebUI\WebUI.csproj", "{F64CB7EE-1DDB-47CC-84DB-0D985A6E650A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
